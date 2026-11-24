@@ -1,0 +1,8 @@
+name = "nova-ai-chat-api"
+main = "index.js"
+compatibility_date = "2026-11-24"
+
+[vars]
+# Ganti dengan origin GitHub Pages kamu, contoh:
+# https://username.github.io
+ALLOWED_ORIGIN = "https://YOUR-GITHUB-USERNAME.github.io"
